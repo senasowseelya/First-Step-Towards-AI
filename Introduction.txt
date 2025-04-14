@@ -1,0 +1,23 @@
+1)What is Python?
+A)Python is a programming language which can be used for different purposes like
+    1.Web Development
+    2.Machine Learning, Deep Learning and Artificial intelligence
+    3. Data science, data analysis
+    4. Web scraping
+    5. Automation 
+
+    a) What is Web scraping  -- A software/ bot which visits multiple sites , read its html and collects data.
+                             -- Useful when for example  Imagine you want to gather product prices from 
+                                multiple online retailers. A web scraper can be programmed to visit each retailer's website,
+                                 find the product listings, extract the prices, and store them in a spreadsheet or 
+                                 database for comparison. 
+    b) What is automation  -- Use of technology where machines do tasks by themselves with less human interaction
+
+
+2) Why python over other langugages?
+A) 1.Python is easy(less code and syntax when compared to Java, c#..) 
+    2.It can do multiple category tasks(Web Development, Ai, Automation) mentioned above 
+    whereas other languages cannot do multiple with single language.
+
+
+
