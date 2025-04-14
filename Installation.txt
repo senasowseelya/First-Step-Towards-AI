@@ -1,0 +1,13 @@
+Steps to install python :
+    1. Download python for windows  -- It downloads an exe file 
+    2. After download, double click that exe 
+    3. Tick that checkbox while installation which says ADD PYTHON TO PATH
+    4. Then click install 
+ 
+Once installed open command prompt and check 
+> python --version
+3.13.3
+
+
+Steps to install IDE (Code editor) Pycharm:
+    1. Download pycharm and it gives an exe file
