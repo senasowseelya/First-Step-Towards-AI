@@ -1,0 +1,12 @@
+1) What is IDE?
+A) An IDE stands for Integrated Development Environment where all the tools required for a developer
+is put in one place like the place to write code, to run code and to navigate between files. It also gives
+some cool features like integration to git, auto suggestions, syntax highlighting.
+
+2) How to run a python program without IDE?
+A) Open the terminal where the file is present and enter the command
+> python3 filename.py
+
+3) What is the difference between code editor and IDE?
+A) Code editor means just to write the code provides syntax highlighting for example notepad,
+but IDE gives tools for development and testing like run, debug ,git which helps to make life of developers easy.
