@@ -11,3 +11,4 @@ Once installed open command prompt and check
 
 Steps to install IDE (Code editor) Pycharm:
     1. Download pycharm and it gives an exe file
+    2.Then install

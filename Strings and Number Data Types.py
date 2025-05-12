@@ -19,14 +19,15 @@ int to_sec=24*3*6
 string mohith="bobby" #no need to mention the datatype
 '''
 
-#nameing conversion be useunderscore and its better to use small letters
+#nameing conversion be use u nderscore and its better to use small letters
 ''' to_calculate=4*6 '''
 
 
 #examplecode:-
 cal_to_sec=24*60*60
+name_last="brother"
 
 print(cal_to_sec)
 print(f"25 days have {25*cal_to_sec} seconds")
-print(f"50 days have {50*cal_to_sec} seconds")
-print(f"100 days have {100*cal_to_sec} seconds")
+print(f"50 days have {50*cal_to_sec} seconds {name_last}")
+print(f"100 days have {100*cal_to_sec} seconds {name_last}")
